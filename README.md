@@ -1,10 +1,10 @@
 metro_blue
 ==========
 
-Blue metro style theme for Grocery CRUD
+Theme for Grocery CRUD
 =======================================
 modified Datatables theme By Cyber3D,
-I wanted to create a theme that looks like http://www.jtable.org/ blue metro has and make it simple to install for others who like it.
+I wanted to create a theme that looks like jTables.org blue metro has and make it simple to install for others who like it.
 
 
 
